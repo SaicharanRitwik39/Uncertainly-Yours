@@ -21,11 +21,9 @@
 Here are a few example forecasts generated using the app:
 
 
-### Alien Contact (Prompt 2)
-![Aliens Forecast](screenshots/forecast_alien_contact.png)
 
-### Bitcoin at $100K (Prompt 3)
-![Bitcoin Forecast](screenshots/forecast_bitcoin.png)
+### Biden (Prompt 1)
+![Biden Incumbency](Screenshots/Biden.png)
  
 
 ---
