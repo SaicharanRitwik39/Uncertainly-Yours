@@ -16,4 +16,18 @@
   - A brief **interpretation**
   - A **bar chart** of confidence scores across all labels
 
+## 📸 Results
+
+Here are a few example forecasts generated using the app:
+
+### Israel Early Elections (Prompt 1)
+![AI Alignment Forecast](screenshots/AI Alignment.png)
+
+### Alien Contact (Prompt 2)
+![Aliens Forecast](screenshots/forecast_alien_contact.png)
+
+### Bitcoin at $100K (Prompt 3)
+![Bitcoin Forecast](screenshots/forecast_bitcoin.png)
+ 
+
 ---
