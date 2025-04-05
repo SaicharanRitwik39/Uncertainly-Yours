@@ -1,6 +1,7 @@
 # Uncertainly Yours
+[![View App](https://img.shields.io/badge/🧠%20Launch-App-green?style=for-the-badge)](https://uncertainly-yours.streamlit.app/)
 
-**Uncertainly Yours** is a playful yet powerful tool for transforming your gut feelings into calibrated probability estimates. Inspired by platforms like RANGE and Metaculus, this app uses zero-shot natural language classification to map your intuition to a probability label, range, and interpretation.
+**Uncertainly Yours** is a playful yet powerful tool for transforming your gut feelings into calibrated probability estimates. This app uses zero-shot natural language classification to map your intuition to a probability label, range, and interpretation.
 
 ---
 
