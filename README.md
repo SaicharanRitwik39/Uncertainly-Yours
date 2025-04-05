@@ -40,6 +40,18 @@ Here are a few example forecasts generated using the app:
 “India is making big announcements, but implementation is slow. I’m doubtful they’ll meet 2030 interim goals unless there’s a huge shift.”
 ![India2030](Screenshots/India_2030.png)
 
+### 🟢 Prompt 2: US Federal Rate Cut by June
+“With inflation cooling and the Fed under pressure, I’d say there’s a good chance they’ll cut rates by June.”
+![USFed](Screenshots/Inflation.png)
+
+### 🔴 Prompt 9: New COVID Variant Causes Global Wave
+“The new variant is transmissible but shows no evidence of immune escape. Public health systems are much more resilient now. I’d say another global wave is unlikely.”
+![COVID](Screenshots/Pandemic.png)
+
+### 👤 Prompt 10: Personal Project Launch
+“I’ve been thinking about launching my newsletter for months. I have the content ready, just need to hit publish. I’d say I’m very likely to do it this month.”
+![PersonalLaunch](Screenshots/Personal Newsletter.png)
+
  
 
 ---
