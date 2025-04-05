@@ -20,8 +20,6 @@
 
 Here are a few example forecasts generated using the app:
 
-### Israel Early Elections (Prompt 1)
-![AI Alignment Forecast](screenshots/AI Alignment.png)
 
 ### Alien Contact (Prompt 2)
 ![Aliens Forecast](screenshots/forecast_alien_contact.png)
