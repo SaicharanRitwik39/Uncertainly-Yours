@@ -48,10 +48,4 @@ Here are a few example forecasts generated using the app:
 “The new variant is transmissible but shows no evidence of immune escape. Public health systems are much more resilient now. I’d say another global wave is unlikely.”
 ![COVID](Screenshots/Pandemic.png)
 
-### 👤 Prompt 10: Personal Project Launch
-“I’ve been thinking about launching my newsletter for months. I have the content ready, just need to hit publish. I’d say I’m very likely to do it this month.”
-![PersonalLaunch](Screenshots/Personal Newsletter.png)
-
- 
-
 ---
